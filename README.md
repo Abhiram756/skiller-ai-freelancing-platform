@@ -30,3 +30,31 @@ Web Application (User Interface)
 → Real-Time Prediction Output  
 
 Training workflows are decoupled from inference services, enabling modular design, scalable integration, and clear separation between model development and deployment layers.
+
+---
+
+## Platform Preview
+
+### Landing Interface
+![Dashboard](images/dashboard.png)
+
+### Student Dashboard
+![Student Dashboard](images/student dashboard.png)
+
+### Client Dashboard
+![Client Dashboard](images/client dashboard.png)
+
+### AI Talent Matching Engine
+![AI Talent Matching](images/ai talent matching.png)
+
+### NLP Resume Analysis
+![Resume Verification](images/resume verification.png)
+
+### AI Skill Verification
+![Skill Verification](images/skill verification.png)
+
+### Face Authentication Security
+![Face Authentication](images/face authentication.png)
+
+### AI Suggested Projects
+![AI Projects](images/ai project suggestion.png)
