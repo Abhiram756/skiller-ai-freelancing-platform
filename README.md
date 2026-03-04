@@ -19,6 +19,33 @@ The system demonstrates applied ML engineering through trained models, evaluatio
 
 ---
 
+---
+
+## Tech Stack
+
+Frontend  
+- HTML / CSS / JavaScript  
+- Modern UI components
+
+Backend  
+- Node.js  
+- Express.js
+
+Machine Learning  
+- Python  
+- Scikit-learn  
+- NLP feature extraction  
+- Random Forest / Gradient Boosting models  
+- Isolation Forest anomaly detection
+
+Data Processing  
+- Pandas  
+- NumPy
+
+Model Deployment  
+- Joblib model persistence  
+- Real-time inference pipelines
+
 ## System Architecture
 
 Skiller follows a full-stack hybrid architecture integrating frontend interfaces, backend APIs, and dedicated machine learning microservices.
@@ -55,3 +82,16 @@ Training workflows are decoupled from inference services, enabling modular desig
 
 ### AI Suggested Projects
 ![AI Projects](images/ai-project-suggestion.png)
+
+
+---
+
+## Future Roadmap
+
+Planned improvements for Skiller include:
+
+- Graph-based skill knowledge networks for enhanced talent discovery
+- Reinforcement learning powered recommendation engine
+- Dynamic freelancer reputation modeling
+- Real-time marketplace analytics
+- Cloud deployment with scalable ML pipelines
