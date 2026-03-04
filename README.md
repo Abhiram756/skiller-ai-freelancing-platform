@@ -35,26 +35,23 @@ Training workflows are decoupled from inference services, enabling modular desig
 
 ## Platform Preview
 
-### Landing Interface
-![Dashboard](images/dashboard.png)
-
 ### Student Dashboard
-![Student Dashboard](images/student dashboard.png)
+![Student Dashboard](images/student-dashboard.png)
 
 ### Client Dashboard
-![Client Dashboard](images/client dashboard.png)
+![Client Dashboard](images/client-dashboard.png)
 
 ### AI Talent Matching Engine
-![AI Talent Matching](images/ai talent matching.png)
+![AI Talent Matching](images/ai-talent-matching.png)
 
 ### NLP Resume Analysis
-![Resume Verification](images/resume verification.png)
+![Resume Verification](images/resume-verification.png)
 
 ### AI Skill Verification
-![Skill Verification](images/skill verification.png)
+![Skill Verification](images/skill-verification.png)
 
 ### Face Authentication Security
-![Face Authentication](images/face authentication.png)
+![Face Authentication](images/face-authentication.png)
 
 ### AI Suggested Projects
-![AI Projects](images/ai project suggestion.png)
+![AI Projects](images/ai-project-suggestion.png)
