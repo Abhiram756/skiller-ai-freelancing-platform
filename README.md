@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-ML-blue)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
+![Machine Learning](https://img.shields.io/badge/AI-Machine%20Learning-orange)
+![Status](https://img.shields.io/badge/Project-Active-success)
+
 # Skiller — AI Freelancing Intelligence Platform
 
 Skiller is an AI-driven freelancing intelligence platform designed to improve trust, skill validation, and data-driven decision-making in digital talent marketplaces.
