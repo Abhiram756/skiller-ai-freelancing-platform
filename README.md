@@ -19,8 +19,6 @@ The system demonstrates applied ML engineering through trained models, evaluatio
 
 ---
 
----
-
 ## Tech Stack
 
 Frontend  
@@ -45,6 +43,8 @@ Data Processing
 Model Deployment  
 - Joblib model persistence  
 - Real-time inference pipelines
+
+---
 
 ## System Architecture
 
