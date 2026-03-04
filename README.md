@@ -63,6 +63,12 @@ Web Application (User Interface)
 
 Training workflows are decoupled from inference services, enabling modular design, scalable integration, and clear separation between model development and deployment layers.
 
+
+
+The platform follows a layered AI system architecture integrating a full-stack web application with machine learning microservices for intelligent freelancer evaluation and project matching.
+
+![Skiller Architecture](images/skiller-architecture.png)
+
 ---
 
 ## Platform Preview
