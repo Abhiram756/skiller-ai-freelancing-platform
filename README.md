@@ -71,6 +71,68 @@ The platform follows a layered AI system architecture integrating a full-stack w
 
 ---
 
+## Machine Learning System
+
+Skiller integrates multiple machine learning modules designed to evaluate freelancer credibility, analyze resumes, detect fraudulent activity, and match talent with projects.
+
+The platform follows a hybrid architecture:
+
+Frontend → Node.js / Express Backend → FastAPI ML Services → MongoDB Database → Model Inference Layer
+
+MongoDB is used to store user profiles, freelancer activity data, project listings, and model-generated scores such as trust index and skill verification results.
+
+Each machine learning model is trained independently and deployed through FastAPI-based ML microservices.
+
+---
+
+### ML Pipeline Improvements
+
+The machine learning system uses a structured training pipeline with the following improvements:
+
+- Stratified 5-Fold Cross Validation for reliable evaluation
+- Multi-model comparison (RandomForest, SVM, Logistic Regression)
+- Hyperparameter tuning using GridSearchCV
+- Model versioning with performance-based filenames
+- Automated model loading in the inference service
+- Training metrics and reports saved for reproducibility
+
+Each module generates a `model_report.json` containing evaluation metrics and parameters used during training.
+
+---
+
+### Model Modules
+
+| Module | Purpose |
+|------|------|
+| **Resume Intelligence** | NLP-based resume classification and ATS scoring |
+| **Talent Matching** | Project-to-freelancer compatibility scoring |
+| **Skill Verification** | Code analysis using AST-based feature extraction |
+| **Fraud Detection** | Detection of suspicious freelancer behavior |
+| **Trust Score Model** | Predictive credibility scoring for freelancers |
+
+All models are exposed through FastAPI endpoints and integrated with the Node.js backend.
+
+---
+
+### Dataset Overview
+
+| Module | Dataset Type | Notes |
+|------|------|------|
+| Resume Analyzer | Synthetic resume dataset | Generated using realistic resume fragments and noise injection |
+| Fraud Detector | Freelancing fraud behavior dataset | Includes 8 behavioral fraud indicators |
+| Trust Scorer | Freelancer performance dataset | Based on platform activity signals |
+| Skill Verifier | Code snippet dataset | AST features extracted from real code patterns |
+| Talent Matcher | Text similarity dataset | Uses TF-IDF cosine similarity for project matching |
+
+These datasets simulate real freelancing platform signals while maintaining reproducible training pipelines.
+
+---
+
+### Model Management
+
+Models are stored using a versioned structure:
+
+
 ## Platform Preview
 
 ### Student Dashboard
