@@ -168,3 +168,26 @@ Planned improvements for Skiller include:
 - Dynamic freelancer reputation modeling
 - Real-time marketplace analytics
 - Cloud deployment with scalable ML pipelines
+
+- ---
+
+## 🤝 Collaboration & Discussions
+
+Skiller is an evolving project exploring how machine learning can improve trust, skill verification, and talent discovery in freelancing platforms.
+
+I am always open to technical discussions, research ideas, and collaboration opportunities related to:
+
+- AI-powered marketplaces
+- recommendation systems
+- fraud detection systems
+- ML-driven talent evaluation
+- scalable AI platform architecture
+
+If you are interested in discussing the project, sharing ideas, or exploring potential collaborations, feel free to reach out.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhiram%20Settybalija-blue?logo=linkedin)](https://www.linkedin.com/in/abhiram-settybalija-48a58035b)  
+[![Email](https://img.shields.io/badge/Email-abhiram07may@gmail.com-red?logo=gmail)](mailto:abhiram07may@gmail.com)
+
+You can also open an **Issue** in this repository for technical discussions or suggestions.
+
+---
