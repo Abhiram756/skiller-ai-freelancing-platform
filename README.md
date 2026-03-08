@@ -3,7 +3,7 @@
 ![Machine Learning](https://img.shields.io/badge/AI-Machine%20Learning-orange)
 ![Status](https://img.shields.io/badge/Project-Active-success)
 
-# Skiller — AI Freelancing Intelligence Platform
+# 🚀 Skiller AI – AI-Driven Freelancing Intelligence Platform
 
 Skiller is an AI-driven freelancing intelligence platform designed to improve trust, skill validation, and data-driven decision-making in digital talent marketplaces.
 
@@ -12,6 +12,50 @@ The project originated from identifying trust gaps and inefficiencies in traditi
 The system demonstrates applied ML engineering through trained models, evaluation metrics, and real-time inference integration within a backend architecture.
 
 ---
+
+## Problem Statement
+
+Freelancing platforms have transformed how digital work is distributed globally.  
+However, many freelancers — especially beginners — struggle to secure projects due to several structural challenges:
+
+- Oversaturated marketplaces where new freelancers rarely gain visibility
+- Inefficient matching between client requirements and freelancer skills
+- High commission rates on freelancer earnings
+- Limited trust signals beyond ratings and reviews
+- Difficulty for clients in identifying the right freelancer quickly
+
+After personally experiencing these challenges on existing freelancing platforms, it became clear that many systems rely heavily on **manual bidding and static reputation metrics**, which often fail to surface the most suitable talent.
+
+---
+
+## Solution – Skiller AI
+
+**Skiller AI** is an AI-assisted freelancing platform designed to improve how freelancers and clients connect.
+
+The platform focuses on creating a smarter and more transparent marketplace by introducing:
+
+- AI-driven freelancer–project matching
+- Intelligent recommendation systems for projects and talent
+- Lower platform commissions for freelancers
+- Fair visibility for both beginners and experienced professionals
+- Improved trust signals through intelligent evaluation models
+
+Instead of relying solely on competitive bidding, Skiller introduces **algorithmic matching mechanisms** that aim to connect the right freelancers with the right opportunities.
+
+---
+
+## Vision
+
+The long-term vision of Skiller AI is to build a **fair, intelligent, and accessible freelancing ecosystem** powered by machine learning.
+
+The platform aims to:
+
+- Reduce friction between freelancers and clients
+- Improve discovery of skilled talent
+- Provide transparent credibility signals
+- Enable smarter project allocation through AI-driven systems
+
+Ultimately, Skiller seeks to evolve into a next-generation freelancing marketplace where **technology improves opportunity, trust, and efficiency for both freelancers and clients.**
 
 ## Core AI Capabilities
 
