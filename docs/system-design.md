@@ -66,3 +66,4 @@ Socket.IO events:
 - `runSkillVerification` -> `skillVerificationResult`
 - `runFraudCheck` -> `fraudCheckResult`
 - `analyzeTrustScore` -> `trustScoreResult`
+
