@@ -68,8 +68,8 @@ const seedDatabase = async () => {
     const userCount = await User.countDocuments();
     if (userCount === 0) {
       await User.create([
-        { name: 'Abhiram Student', email: 'student@demo.com', password: 'password123', role: 'student', skills: ['React', 'Python', 'Java'] },
-        { name: 'Abhiram Client', email: 'client@demo.com', password: 'password123', role: 'client', company: 'Skiller Corp' }
+        { name: ' Student', email: 'student@demo.com', password: 'demopass123', role: 'student', skills: ['React', 'Python', 'Java'] },
+        { name: ' Client', email: 'client@demo.com', password: 'demopass123', role: 'client', company: 'Skiller Corp' }
       ]);
       console.log('👤 Seeded Test Users: student@demo.com, client@demo.com');
     }
@@ -622,4 +622,5 @@ function getLocalIp() {
     }
   }
   return 'localhost';
+
 }
