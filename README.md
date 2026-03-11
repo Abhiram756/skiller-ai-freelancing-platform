@@ -56,25 +56,25 @@ Instead of endless bidding competition, Skiller focuses on **smart matching algo
 ![Dashboard](images/dashboard.png)
 
 ### Student Dashboard
-![Student Dashboard](images/student dashboard.png)
+![Student Dashboard](images/student-dashboard.png)
 
 ### Client Dashboard
-![Client Dashboard](images/client dashboard.png)
+![Client Dashboard](images/client-dashboard.png)
 
 ### AI Talent Matching Engine
-![AI Talent Matching](images/ai talent matching.png)
+![AI Talent Matching](images/ai-talent-matching.png)
 
 ### NLP Resume Verification
-![Resume Verification](images/resume verification.png)
+![Resume Verification](images/resume-verification.png)
 
 ### Skill Verification Engine
-![Skill Verification](images/skill verification.png)
+![Skill Verification](images/skill-verification.png)
 
 ### Face Authentication
-![Face Authentication](images/face authentication.png)
+![Face Authentication](images/face-authentication.png)
 
 ### AI Suggested Projects
-![AI Projects](images/ai project suggestion.png)
+![AI Projects](images/ai-project-suggestion.png)
 
 ---
 
